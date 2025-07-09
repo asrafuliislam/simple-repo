@@ -1,0 +1,35 @@
+nav li a{
+    text-decoration: none;
+    background-color: #0673ae;
+    font-size: larger;
+    color: rgb(245, 245, 245);
+    padding: 10px 15px;
+    border-radius: 13px;
+    
+}
+nav{
+    background: #045da576;
+    padding: 20px;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 35px;
+    text-align: center;
+
+
+}
+nav li a:hover{
+    background-color: #07837b;
+    color: black;
+    padding:10px 15px;
+    border-radius: 13px;
+}
+
+footer{
+    text-align: center;
+    background: #136cd177;
+    padding: 15px;
+    font-size: 20px;
+
+}

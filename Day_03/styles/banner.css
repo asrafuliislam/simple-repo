@@ -1,0 +1,25 @@
+body{
+    max-width: 1140px;
+    background-color: #bf833e;
+    margin: 0 auto;
+}
+.hero_continar{
+    display: flex;
+    background-color: #54c2ca;
+    font-size: 1.25em;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+p{
+    font-size: 25px;
+}
+img{
+    border-radius: 25px;
+}
+button{
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #5477ca;
+}
